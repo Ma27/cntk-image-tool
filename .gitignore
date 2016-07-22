@@ -1,0 +1,6 @@
+bin/
+*.dll
+*.pdb
+models/
+obj/
+*.model
